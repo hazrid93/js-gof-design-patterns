@@ -10,5 +10,7 @@
   },
   "author": "hazrid93",
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {
+    "typescript": "^4.4.4"
+  }
 }
